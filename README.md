@@ -20,6 +20,7 @@ No need to worry about traveling and stay.
 
 - [React](https://reactjs.org/)
 - [React Router DOM](https://reactrouter.com/web/guides/quick-start)
+- [Firebase](https://firebase.google.com/)
 - [Material UI](https://material-ui.com/)
 
 # Features
