@@ -1,5 +1,5 @@
-#  Airbnb 
-Building a Social Madia Application 🏠 🏠.
+#  Airbnb 🏠 🏠.
+Makes travelling easy and fun.
 # Motivation 
 No need to worry about traveling and stay.
 
