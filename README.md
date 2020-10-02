@@ -5,7 +5,7 @@ No need to worry about traveling and stay.
 
 # Build status
 <img alt="logo" src="https://img.shields.io/badge/build-passing-green?logo=appveyor&style=for-the-badge">
-<img alt="logo" src="https://img.shields.io/badge/server deploy-passing-#fdc500?logo=firebase&style=for-the-badge">
+<img alt="logo" src="https://img.shields.io/badge/server deploy-passing-yellowgreen?logo=firebase&style=for-the-badge">
 <img alt="logo" src="https://img.shields.io/badge/client deploy-passing-blue?logo=firebase&style=for-the-badge">
 
 # Code Style
