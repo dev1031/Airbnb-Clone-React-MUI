@@ -1,3 +1,37 @@
+#  Airbnb 
+Building a Social Madia Application 🏠 🏠.
+# Motivation 
+No need to worry about traveling and stay.
+
+# Build status
+<img alt="logo" src="https://img.shields.io/badge/build-passing-green?logo=appveyor&style=for-the-badge">
+<img alt="logo" src="https://img.shields.io/badge/server deploy-passing-#fdc500?logo=firebase&style=for-the-badge">
+<img alt="logo" src="https://img.shields.io/badge/client deploy-passing-blue?logo=firebase&style=for-the-badge">
+
+# Code Style
+- Server side code **standard**
+- Client side code **PascalCase** 
+
+# Screenshots
+![airbnb](./page.png)
+
+
+# Tech/framework used
+
+- [React](https://reactjs.org/)
+- [React Router DOM](https://reactrouter.com/web/guides/quick-start)
+- [Material UI](https://material-ui.com/)
+
+# Features
+- Search for all avaliable places
+- Check reviews, rate.
+
+# Credits
+Airbnb
+# License
+MIT © Dherendra Dev
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
